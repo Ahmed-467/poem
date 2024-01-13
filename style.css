@@ -1,0 +1,86 @@
+div{
+    display: block;
+}
+.tbl {
+    text-align: center;
+    padding: 20px;
+
+}
+.nav {
+    color: azure;
+    font-size: 38px;
+    padding: 25px;
+    background-color:  blueviolet;
+    text-decoration: none;
+    
+}
+.nav a:hover {
+    color: rgba(237, 238, 237, 0.237);
+    cursor: pointer;
+    
+}
+.poem1 {
+    font-family: 'Luckiest Guy';
+    color: rgb(255, 0, 140);
+}
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.poem1:first-letter {
+    color: rgb(47, 47, 255);
+    font-size: 120px;
+}
+.para {
+    font-family: 'Poppins';
+    font-weight: bold;
+    color: teal;
+}
+.para:first-line{
+    color: brown;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+.poem2 {
+    font-family: 'Pacifico';
+    color: chocolate;
+}
+.poem2:first-letter {
+    color: olivedrab
+    font-size: 120px;
+}
+.poem3 {
+    font-family: 'Satisfy';
+    color: rgb(255, 0, 0);
+}
+.poem3:first-letter {
+    color: rgb(43, 25, 76);
+    font-size: 120px;
+}
+.poem4 {
+    font-family: 'Pacifico';
+    color: rgb(84, 1, 5);
+}
+.poem4:first-letter {
+    color: rgb(68, 0, 255);
+    font-size: 120px;
+}
+.poem5 {
+    font-family: 'PinkChicken';
+    color: rgb(0, 255, 42);
+}
+.poem5:first-letter {
+    color: rgb(35, 231, 172);
+    font-size: 120px;
+}
